@@ -10,8 +10,6 @@ FeltQuake is an end-to-end machine learning project built on real USGS earthquak
 
 Earlier this year I experienced a strongly felt earthquake here in Egypt. What stuck with me wasn't just the shaking — it was noticing that earthquake warning alerts went out to Android phones but not to iPhones, and that people still panicked even with a warning in hand. That gap between *what the data says about an earthquake* and *how people actually experience and react to it* became the core question behind this project: **can we predict, from an earthquake's physical characteristics alone, whether it's likely to be felt and reported by people?**
 
-*(Feel free to trim or rephrase this section — it's your story, so keep only what feels right to include publicly.)*
-
 ---
 
 ## 🎯 Project Overview
