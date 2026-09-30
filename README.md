@@ -1,7 +1,5 @@
 # 🌍 FeltQuake — Will People Feel This Earthquake?
 
-**Final Capstone Project — Data Science Diploma, Epsilon AI Academy**
-
 FeltQuake is an end-to-end machine learning project built on real USGS earthquake data. It combines a **supervised classification model** (predicting whether an earthquake will be felt/reported by people) with an **unsupervised clustering analysis** (grouping earthquakes into distinct seismic profiles), deployed together as an interactive Streamlit application.
 
 ---
