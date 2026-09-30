@@ -134,8 +134,8 @@ FeltQuake-Epsilon-Final-Project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tarneemmedhat/FeltQuake-Epsilon-Final-Project.git
-   cd FeltQuake-Epsilon-Final-Project
+   git clone https://github.com/taraneem/FeltQuake.git
+   cd FeltQuake
    ```
 
 2. **Install dependencies**
